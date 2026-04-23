@@ -1,5 +1,5 @@
 # 🚀 Idavanzo - Helle Hollis
 
-Repositorio corporativo.
+Cuenta corporativa.
 
 ---
